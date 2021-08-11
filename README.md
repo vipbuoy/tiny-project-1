@@ -4,8 +4,8 @@ This simple small project works on python and on concept of web-scraping. It wil
 rating to a specific location you will mention. It has both front-end and back-end.
 
 ## HOW to use<br />
-step 1: Run the code
-step 2: connect your device with internet connection
-step 3: put the source address of your movies
-step 4: put the address of destination folder where you want to keep movies above a specific imdb rating
-step 5: put the imdb rating and press on GO
+step 1: Run the code<br />
+step 2: connect your device with internet connection<br />
+step 3: put the source address of your movies<br />
+step 4: put the address of destination folder where you want to keep movies above a specific imdb rating<br />
+step 5: put the imdb rating and press on GO<br />
